@@ -5,7 +5,7 @@
 > **Note on scope:** Per module guidance, the project brief is the sole authoritative
 > source for this project. No contact with the real organisation was made or is
 > required. Where the brief does not specify a detail, a reasonable
-> network-engineering assumption has been made below and justified — the goal is a
+> network-engineering assumption has been made below and justified , the goal is a
 > technically sound, defensible design for *this scenario*, not a recreation of the
 > real Montshiwa Construction's actual network.
 
