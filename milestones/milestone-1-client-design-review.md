@@ -1,4 +1,4 @@
-# Milestone 1 — Client Design Review
+# Milestone 1 : Client Design Review
 
 **Project:** CMPG325-2026-071 (Montshiwa Construction, Mahikeng)
 **Due:** 28 August 2026
