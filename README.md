@@ -6,10 +6,7 @@
 **Assigned addressing block:** 10.30.0.0/16
 
 ## About this project
-This repository is my individual portfolio of evidence for the CMPG 325 semester
-project: designing, addressing, and (in later milestones) building and testing a
-Cisco Packet Tracer network for a construction-industry client, with VoIP/data
-traffic separation and a small branch office connected to the main site.
+This repository serves as my personal portfolio of evidence for the CMPG 325 semester project, which involved designing, addressing, and (in later milestones) constructing and testing a Cisco Packet Tracer network with VoIP/data traffic separation and a small branch office connected to the main site for a client in the construction industry.
 
 ## Repository structure
 ```
@@ -28,11 +25,7 @@ CMPG325-2026-071/
 
 
 ## Scope note
-Per module guidance, the project brief is the sole authoritative source for this
-project. No contact with the real Montshiwa Construction was made or is required.
-Where the brief does not specify a detail (departments, headcounts, services, etc.),
-a reasonable, justified network-engineering assumption was made instead. See
-`docs/client-requirements.md` §3 for the full assumptions table.
+The project brief is the only authoritative source for this project, per module guidelines. No communication was established or is necessary with the actual Montshiwa Construction. When a detail (departments, headcounts, services, etc.) was not specified in the brief, a fair and defensible network-engineering assumption was created in its place. Refer to documents/client-requirements.For the complete assumptions table, see md §3.
 
 ## Academic integrity note
 In accordance with the NWU AI Policy mentioned in the project description, I finished this project using AI-assisted tutoring for planning and explanation. I am still in charge of ensuring that everything in this repository and in my final Packet Tracer implementation is accurate, comprehensible, and verified.
