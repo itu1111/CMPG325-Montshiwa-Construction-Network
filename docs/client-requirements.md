@@ -20,7 +20,7 @@
 | R6 | Solution must be built and simulated in Cisco Packet Tracer and produce a working, testable `.pkt` file | Sections 1, 7, 15 |
 | R7 | All design decisions, evidence, and testing must be documented in a GitHub portfolio | Section 12 |
 
-## 2. Scenario analysis — reasoning about the client
+## 2. Scenario analysis : reasoning about the client
 The brief only states the client is a **construction company based in Mahikeng**.
 Reasoning from that alone, about what such a company's head office would realistically
 need to run day-to-day:
