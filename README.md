@@ -1,6 +1,6 @@
 # CMPG325-2026-071 — Montshiwa Construction Network Design
 
-**Student:** Melamu, IGR (51890038) | **Module:** CMPG 325 — Computer Networks (NWU)
+**Student:** Melamu, IGR (51890038) | **Module:** CMPG 325 : Computer Networks (NWU)
 **Client:** Montshiwa Construction (Mahikeng) — Client ID CLI-071
 **Assigned challenge:** Default Routing (edge/ISP path design) — Intermediate
 **Assigned addressing block:** 10.30.0.0/16
@@ -26,12 +26,6 @@ CMPG325-2026-071/
 └── screenshots/                       <- configuration/testing evidence (later milestones)
 ```
 
-## Milestone status
-| Milestone | Due | Status |
-|---|---|---|
-| Milestone 1 — Client Design Review | 28 Aug 2026 | ✅ Requirements, topology, addressing complete |
-| Milestone 2 | 2 Oct 2026 | ⏳ Not started |
-| Final submission | 16 Oct 2026 | ⏳ Not started |
 
 ## Scope note
 Per module guidance, the project brief is the sole authoritative source for this
