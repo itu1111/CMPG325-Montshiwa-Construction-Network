@@ -1,4 +1,4 @@
-# CMPG325-2026-071 — Montshiwa Construction Network Design
+# CMPG325-2026-071 : Montshiwa Construction Network Design
 
 **Student:** Melamu, IGR (51890038) | **Module:** CMPG 325 : Computer Networks (NWU)
 **Client:** Montshiwa Construction (Mahikeng) — Client ID CLI-071
