@@ -7,7 +7,7 @@ out) so the block isn't wasted on oversized subnets.
 
 ## How the plan was built
 1. List every network segment and its assumed host count.
-2. Sort segments **largest to smallest** — the golden rule of VLSM; allocating big
+2. Sort segments **largest to smallest** , the golden rule of VLSM; allocating big
    subnets first, on power-of-two boundaries, avoids fragmenting the block.
 3. For each segment, find the smallest subnet mask that still covers
    (assumed hosts + 2 for network/broadcast), with a little headroom for growth.
