@@ -1,4 +1,4 @@
-# IP Addressing Plan — CMPG325-2026-071
+# IP Addressing Plan : CMPG325-2026-071
 
 **Assigned block:** 10.30.0.0/16 (65,536 addresses)
 **Method:** VLSM (Variable Length Subnet Masking), sized to each segment's *assumed*
