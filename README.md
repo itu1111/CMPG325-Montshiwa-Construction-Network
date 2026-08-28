@@ -29,13 +29,10 @@ CMPG325-2026-071/
 
 ## Scope note
 Per module guidance, the project brief is the sole authoritative source for this
-project — no contact with the real Montshiwa Construction was made or is required.
+project. No contact with the real Montshiwa Construction was made or is required.
 Where the brief does not specify a detail (departments, headcounts, services, etc.),
 a reasonable, justified network-engineering assumption was made instead. See
 `docs/client-requirements.md` §3 for the full assumptions table.
 
 ## Academic integrity note
-This project was completed by me with AI-assisted tutoring for planning and
-explanation, in line with the NWU AI Policy referenced in the project brief.
-I remain responsible for the correctness, understanding, and verification of
-everything in this repository and in my final Packet Tracer implementation.
+In accordance with the NWU AI Policy mentioned in the project description, I finished this project using AI-assisted tutoring for planning and explanation. I am still in charge of ensuring that everything in this repository and in my final Packet Tracer implementation is accurate, comprehensible, and verified.
