@@ -4,7 +4,7 @@
 **Due:** 28 August 2026
 
 ## Deliverables in this milestone
-1. [Client Requirements](../docs/client-requirements.md) — includes scenario analysis
+1. [Client Requirements](../docs/client-requirements.md) : includes scenario analysis
    and a documented, justified assumptions table (per module guidance that the brief
    is the sole authoritative source)
 2. [Physical Topology](../docs/physical-topology.png)
@@ -15,7 +15,7 @@
 ## Summary of design decisions
 - **Two-site topology:** Head Office (three departments: Admin & Finance, Project
   Management & Engineering, Procurement & Stores) and a CR6 branch/site office,
-  both single-homed to a shared ISP/edge router — the natural fit for "Default
+  both single-homed to a shared ISP/edge router, the natural fit for "Default
   Routing (edge/ISP path design)."
 - **Per-department Data VLANs (10, 11, 12)** at HQ plus a company-wide **Voice VLAN
   (20)**, and an equivalent **Data/Voice VLAN pair (30/40)** at the branch, to satisfy
