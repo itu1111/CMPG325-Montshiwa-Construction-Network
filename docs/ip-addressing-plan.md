@@ -53,7 +53,7 @@ future departments, sites, or VLANs (see assumption in client-requirements.md §
 
 ## Why this satisfies the design constraint
 Every department at HQ gets its **own Data VLAN/subnet**, and both HQ and the branch
-have their **data and voice traffic on entirely separate VLANs/subnets** — this is the
+have their **data and voice traffic on entirely separate VLANs/subnets** , this is the
 addressing-level evidence that VoIP traffic is logically separated from data traffic
 (Section 8 of the brief). The Layer 2 configuration that enforces this (trunking,
 voice VLAN commands, access ports) will be implemented and evidenced in Milestone 2.
