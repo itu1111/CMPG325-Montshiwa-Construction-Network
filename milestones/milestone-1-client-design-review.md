@@ -27,9 +27,33 @@
   documented and justified in `client-requirements.md`, since no contact with the real
   organisation was made or required.
 
-## Not yet done (planned for Milestone 2 / final submission)
-- Building the topology in Cisco Packet Tracer
-- Interface, VLAN, trunk, and default-route configuration
-- DHCP (if used) for phones/PCs
-- Connectivity testing and screenshot evidence
-- Troubleshooting log and final reflection
+### Milestone 2 — Client Implementation Review
+
+**Status: Completed**
+
+The Montshiwa Construction network was implemented and tested in Cisco Packet Tracer according to the assigned Default Routing challenge and the Milestone 1 addressing plan.
+
+Completed implementation includes:
+
+* HQ and Branch network topology
+* VLAN segmentation for data and voice traffic
+* Router-on-a-stick inter-VLAN routing
+* HQ and Branch IP addressing using the approved VLSM addressing plan
+* HQ–ISP and Branch–ISP serial WAN connections
+* Default routing from the HQ and Branch routers through the ISP router
+* Static routes on the ISP router
+* Cisco IP phones connected using dedicated voice VLANs
+* Connectivity testing between HQ and Branch networks
+
+### Testing
+
+End-to-end connectivity was successfully tested between the HQ and Branch networks. Both directions were tested using ICMP ping, with successful responses and 0% packet loss after the network had converged.
+
+### Packet Tracer File
+
+The completed Cisco Packet Tracer implementation is available in the `packet-tracer/` directory.
+
+### Evidence
+
+Screenshots documenting VLAN configuration, routing tables, and successful HQ-to-Branch and Branch-to-HQ connectivity tests are included in the project evidence/screenshots directory.
+
