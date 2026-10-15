@@ -72,5 +72,5 @@ open, and are what will be defended in the video demonstration:
 
 ## 5. Out of scope for Milestone 1
 Router/switch configuration, VLAN trunking commands, DHCP, and testing evidence are
-covered in Milestone 2 and the final submission — this milestone covers scenario
+covered in Milestone 2 and the final submission; this milestone covers scenario
 analysis, requirements, topology, and addressing only.
